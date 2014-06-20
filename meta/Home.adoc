@@ -15,7 +15,7 @@ can quickly evolve from describing simple howtos or questions to providing an ex
 
 To see the expressive power of this approach, here are some winners of our past community competitions:
 
-== Examples
+== Examples - Sathya Balasundaram examples
 [none]
 * **Finance** link:./?github-neo4j-contrib%2Fgists%2F%2Fother%2FBankFraudDetection.adoc[Bank Fraud Detection] by https://twitter.com/kennybastani[@kennybastani]
 * **Sports** link:./?8019511[Alpine Skiing seasons] by https://twitter.com/pac_19[@pac_19] 
